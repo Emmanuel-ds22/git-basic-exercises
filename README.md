@@ -1,3 +1,1 @@
-Git exercise
-second commit of the exercise
-random changes
+This is a new README file
